@@ -69,18 +69,19 @@ y si ninguno es verdadero.....
 0 - 3.9 = exalumno
 '''
 
-nota = 7.3
-alumno = ''
+# nota = 7.3
+# alumno = ''
 
-if nota == 10:
-    alumno = 'excelente alumno'
-elif nota >= 8:
-    alumno = 'muy buen alumno'
-elif nota >= 6:
-    alumno = 'buen alumno'
-elif nota >= 4:
-    alumno = 'alumno regular'
-else:
-    alumno = 'exalumno'
+# if nota == 10:
+#     alumno = 'excelente alumno'
+# elif nota >= 8:
+#     alumno = 'muy buen alumno'
+# elif nota >= 6:
+#     alumno = 'buen alumno'
+# elif nota >= 4:
+#     alumno = 'alumno regular'
+# else:
+#     alumno = 'exalumno'
 
-print(alumno)
+# print(alumno)
+
