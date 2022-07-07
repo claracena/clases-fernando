@@ -35,7 +35,7 @@ def ejecutar():
         
         if resultado == '': resultado = i
 
-        print(resultado)
+        print(resultado) 
 
 if __name__ == '__main__':
     ejecutar()
