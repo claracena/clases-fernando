@@ -68,6 +68,6 @@ def high_3(x):
         list.append(scores)
     return words[list.index(max(list))]
 
-print(high_1('what time are we climbing up the volcano'))
-print(high_2('what time are we climbing up the volcano'))
-print(high_3('what time are we climbing up the volcano'))
+# print(high_1('what time are we climbing up the volcano'))
+# print(high_2('what time are we climbing up the volcano'))
+# print(high_3('what time are we climbing up the volcano'))

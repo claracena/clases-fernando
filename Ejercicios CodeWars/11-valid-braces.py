@@ -86,7 +86,7 @@ def valid_braces_4(s, previous = ''):
   while s != previous: previous, s = s, s.replace('[]','').replace('{}','').replace('()','')
   return not s
 
-print(valid_braces_1('[({})](]'))
-print(valid_braces_2('[({})](]'))
-print(valid_braces_3('[({})](]'))
-print(valid_braces_4('[({})](]'))
+# print(valid_braces_1('[({})](]'))
+# print(valid_braces_2('[({})](]'))
+# print(valid_braces_3('[({})](]'))
+# print(valid_braces_4('[({})](]'))

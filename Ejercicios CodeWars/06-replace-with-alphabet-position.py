@@ -68,6 +68,6 @@ def alphabet_position_3(text):
                 result = result + ' ' + str(alphabet.index(letter) + 1)
         return result.lstrip(' ')
 
-print(alphabet_position_1('The sunset sets at twelve o\' clock.'))
-print(alphabet_position_2('The sunset sets at twelve o\' clock.'))
-print(alphabet_position_3('The sunset sets at twelve o\' clock.'))
+# print(alphabet_position_1('The sunset sets at twelve o\' clock.'))
+# print(alphabet_position_2('The sunset sets at twelve o\' clock.'))
+# print(alphabet_position_3('The sunset sets at twelve o\' clock.'))

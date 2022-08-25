@@ -77,6 +77,6 @@ def dig_pow_3(n, p):
     k, fail = divmod(sum(int(d)**(p + i) for i, d in enumerate(str(n))), n)
     return -1 if fail else k
 
-print(dig_pow_1(46288, 3))
-print(dig_pow_2(46288, 3))
-print(dig_pow_3(46288, 3))
+# print(dig_pow_1(46288, 3))
+# print(dig_pow_2(46288, 3))
+# print(dig_pow_3(46288, 3))

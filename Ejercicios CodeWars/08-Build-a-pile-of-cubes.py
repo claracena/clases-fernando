@@ -91,7 +91,7 @@ def find_nb_4(m):
     if (n*(n+1)//2)**2 != m: return -1
     return n
 
-print(find_nb_1(1071225))
-print(find_nb_2(1071225))
-print(find_nb_3(1071225))
-print(find_nb_4(1071225))
+# print(find_nb_1(1071225))
+# print(find_nb_2(1071225))
+# print(find_nb_3(1071225))
+# print(find_nb_4(1071225))

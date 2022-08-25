@@ -87,7 +87,7 @@ available = {"flour": 1200, "sugar": 1200, "eggs": 5, "milk": 200}
 # recipe = {"apples": 3, "flour": 300, "sugar": 150, "milk": 100, "oil": 100}
 # available = {"sugar": 500, "flour": 2000, "milk": 2000}
 
-print(cakes_1(recipe, available))
-print(cakes_2(recipe, available))
-print(cakes_3(recipe, available))
-print(cakes_4(recipe, available))
+# print(cakes_1(recipe, available))
+# print(cakes_2(recipe, available))
+# print(cakes_3(recipe, available))
+# print(cakes_4(recipe, available))

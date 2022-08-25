@@ -85,6 +85,6 @@ def order_3(sentence):
   
     return " ".join(result)
 
-print(order_1('g3ood 4of the2 pe6ople th5e Fo1r'))
-print(order_2('g3ood 4of the2 pe6ople th5e Fo1r'))
-print(order_3('g3ood 4of the2 pe6ople th5e Fo1r'))
+# print(order_1('g3ood 4of the2 pe6ople th5e Fo1r'))
+# print(order_2('g3ood 4of the2 pe6ople th5e Fo1r'))
+# print(order_3('g3ood 4of the2 pe6ople th5e Fo1r'))
